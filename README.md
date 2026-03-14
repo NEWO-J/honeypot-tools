@@ -44,7 +44,12 @@ cowrie start
 ### Benchmark
 I built this benchmark by obersiving the tactics of real-life malware dropper bots, this is the series of checks they run to determine if a host is worth proceeding with, or if its a honeypot.
 
-initiate the script
+initiate the script:
 ```
-python benchmark.py
+python benchmark.py <host< <port> <user> <pass>
 ```
+Heres how it ran on the Dockerfile
+![Alt text](benchmark.png)
+And for anyone curious, this is how it runs on a standard Cowrie installtion.
+![Alt text](shellmodebenchmark.png)
+These are the same commands bots use to decide your honeypot isnt worth dropping malware on.
