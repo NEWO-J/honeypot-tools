@@ -52,4 +52,5 @@ Heres how it ran on the Dockerfile
 ![Alt text](benchmark.png)
 And for anyone curious, this is how it runs on a standard Cowrie installtion.
 ![Alt text](shellmodebenchmark.png)
+
 These are the same commands bots use to decide your honeypot isnt worth dropping malware on.
