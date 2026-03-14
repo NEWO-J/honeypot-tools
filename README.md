@@ -1,4 +1,5 @@
-# honeypot-tools
+# honeypot-tools - Improve your Cowrie honeypot
+
 Here I've compiled a few configuration files that I used for my $5 AWS lightsail honeypot.
 This Dockerfile is meant to be used with Cowrie in proxy mode, it provides an high level of interactivity and emulates a long-running server with multiple users, realistic filesystem and processes.
 
