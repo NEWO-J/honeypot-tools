@@ -42,7 +42,7 @@ Now start cowrie
 cowrie start
 ```
 ### Benchmark
-I built this benchmark by obersiving the tactics of real-life malware dropper bots, this is the series of checks they run to determine if a host is worth proceeding with, or if its a honeypot.
+I built this benchmark by observing the tactics of real-life malware dropper bots, this is the series of checks they run to determine if a host is worth proceeding with, or if its a honeypot.
 
 initiate the script:
 ```
